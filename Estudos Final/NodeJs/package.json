@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "POC NodeJs - CloudKit JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Peter DN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-fetch": "^2.5.0"
+  }
+}
